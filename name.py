@@ -1,5 +1,5 @@
 def main():
-    pass
+    name = input("Type your name: ")
 
 
 main()
