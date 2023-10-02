@@ -1,5 +1,6 @@
 def main():
-    pass
-name = input("What is your name?")
+    name = input("What is your name? ")
+    age = int(input("What is your age? "))
+    print("Hello ", name, ", you are ", age, " years old!")
 
 main()
