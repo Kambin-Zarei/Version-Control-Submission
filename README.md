@@ -65,7 +65,7 @@ Finally, the program will print your name and age:
 Hello John Smith, you are 25 years old!
 ```
 
-### Example Usage
+### Example Output
 ```shell
 What is your name? John Smith
 What is your age? 25
